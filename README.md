@@ -1,4 +1,4 @@
-# 3D-Space-Craft
+#3D-Space-Craft
 
 Statement: this is an extremely foolish game, but if you insist playing this game, you need:
 
@@ -8,5 +8,5 @@ Statement: this is an extremely foolish game, but if you insist playing this gam
 4. patience
 
 
-drag .apk into your Android device, and then install.
+Raw the .apk file first and then drag it into your Android device. INSTALL IT!!
 Start your "Fantastic" game adventure!
