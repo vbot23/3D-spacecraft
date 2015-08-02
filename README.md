@@ -1,6 +1,6 @@
 # 3D-Space-Craft
 
-Statement: this is a really foolish game, but if you insist playing this game, you need:
+Statement: this is an extremely foolish game, but if you insist playing this game, you need:
 
 1. a google cardboard (you can buy it on amazon.com)
 2. a normal Andriod device
@@ -8,5 +8,5 @@ Statement: this is a really foolish game, but if you insist playing this game, y
 4. patience
 
 
-an .apk file in the gamedir is the game file, drag that into your device, and then install.
+drag .apk into your Android device, and then install.
 Start your "Fantastic" game adventure!
