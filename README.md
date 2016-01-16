@@ -1,6 +1,6 @@
 #3D-Space-Craft
 
-Statement: this is an extremely foolish game, but if you insist playing this game, you need:
+To start you need:
 
 1. a google cardboard (you can buy it on amazon.com)
 2. a normal Andriod device
